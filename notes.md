@@ -2,7 +2,6 @@ LINUX
 LS – list files
 CD – change directory
 
-
 NEXT-JS
 npm run dev – start lokalneho serveru v dev mode
 npm run build – zkompilovanie a start lokalneho serveru v produkcnom mode(cela aplikacia)
@@ -23,4 +22,4 @@ git remote -v = verifikacia
 git commit -m Initial commit = commitovanie
 git --> commit to github --> got website powered by vercel.com (creators of nextJS)
 
-ls -R | grep -v -E "^./(node_modules|\.next|.git)"
+
